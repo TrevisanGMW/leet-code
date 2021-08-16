@@ -24,4 +24,4 @@ class Solution(object):
 
 # Results
 # 08/08/2021 20:59	Accepted	40 ms	14.4 MB	python
-# Solution Tags: Hashmaps
+# Solution: Hashmaps
